@@ -29,3 +29,4 @@ if __name__ == '__main__':
     # V5.0 cmd
     # v6.0.0 PyCharm git flow
     # v6.0.1 hotfix test
+    # v6.0.2 hotfix cmd ver.
